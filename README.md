@@ -35,6 +35,4 @@ Tableau was used to create interactive dashboards and visualizations to present 
 ## Results
 The results of this analysis are summarized in the Tableau workbook and can be accessed through the interactive dashboards.
 
-## License
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
